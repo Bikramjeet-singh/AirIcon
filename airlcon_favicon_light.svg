@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="14" fill="#ffffff" stroke="#e5e5e5" stroke-width="0.5"/>
+  <path d="M32 16 C31 15 29.5 15.5 20 26 C13 33.5 12 35 12.5 36 C13.5 38 16 37.5 17 37.2 L17 53 C17 54.1 17.9 55 19 55 L45 55 C46.1 55 47 54.1 47 53 L47 37.2 C48 37.5 50.5 38 51.5 36 C52 35 51 33.5 44 26 C34.5 15.5 33 15 32 16 Z" fill="#0d0d0d"/>
+  <text x="32" y="51" text-anchor="middle" font-family="-apple-system,SF Pro Text,Helvetica Neue,sans-serif" font-size="16" font-weight="200" fill="#ffffff" letter-spacing="-0.3">Ai</text>
+  <circle cx="53" cy="11" r="5.5" fill="#0a84ff"/>
+</svg>
